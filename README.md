@@ -11,4 +11,4 @@ four groups, namely:
 **(4)** ABS and mature gametocyte activity (ABS & mGc). 
 
 Code relating to model building and evaluation are contained within the respective folder
-and the datasets for scripts are available in the Databases folder.
+and the datasets for scripts are available in the datasets folder.
