@@ -14,39 +14,39 @@ Code relating to model building and evaluation are contained within the respecti
 and the datasets for scripts are available in the datasets folder.
 
 # Requirements:
-**(1)** rdkit-pypi-2022.9.5
 
-**(2)** shap-0.44.0
 
-**(3)** slicer-0.0.7
+**(1)** shap-0.44.0
 
-**(4)** numpy-1.23.5 
+**(2)** slicer-0.0.7
 
-**(5)** scipy-1.11.4 
+**(3)** numpy-1.23.5 
 
-**(6)** scikit-learn-1.2.2 
+**(4)** scipy-1.11.4 
 
-**(7)** pandas-1.5.3 
+**(5)** scikit-learn-1.2.2 
 
-**(8)** tqdm>=4.27.0 
+**(6)** pandas-1.5.3 
 
-**(9)** packaging>20.9 
+**(7)** tqdm>=4.27.0 
 
-**(10)** numba-0.58.1
+**(8)** packaging>20.9 
 
-**(11)** cloudpickle-2.2.1
+**(9)** numba-0.58.1
 
-**(12)** llvmlite<0.42
+**(10)** cloudpickle-2.2.1
 
-**(13)** python-dateutil>=2.8.1
+**(11)** llvmlite<0.42
 
-**(14)** pytz>=2020.1
+**(12)** python-dateutil>=2.8.1
 
-**(15)** joblib>=1.1.1
+**(13)** pytz>=2020.1
 
-**(16)** threadpoolctl>=2.0.0
+**(14)** joblib>=1.1.1
 
-**(17)** six>=1.5
+**(15)** threadpoolctl>=2.0.0
+
+**(16)** six>=1.5
 
 
 
