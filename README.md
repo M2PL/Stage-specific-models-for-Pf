@@ -48,6 +48,8 @@ and the datasets for scripts are available in the datasets folder.
 
 **(16)** six>=1.5
 
+**(17)** StarDrop version 7.4
+
 
 
 
